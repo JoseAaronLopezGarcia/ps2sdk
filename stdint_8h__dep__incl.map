@@ -1,0 +1,11 @@
+<map id="iop/kernel/include/stdint.h" name="iop/kernel/include/stdint.h">
+<area shape="rect" id="node1" title=" " alt="" coords="397,5,520,47"/>
+<area shape="rect" id="node2" href="$ps2sdkapi_8c_source.html" title=" " alt="" coords="5,102,160,129"/>
+<area shape="rect" id="node3" href="$byteorder_8h.html" title=" " alt="" coords="184,102,360,129"/>
+<area shape="rect" id="node5" href="$crc16_8h_source.html" title=" " alt="" coords="385,95,533,136"/>
+<area shape="rect" id="node8" href="$tools_2ps2adpcm_2src_2adpcm_8c_source.html" title=" " alt="" coords="556,95,692,136"/>
+<area shape="rect" id="node9" href="$tools_2ps2adpcm_2src_2main_8c_source.html" title=" " alt="" coords="716,95,852,136"/>
+<area shape="rect" id="node4" href="$ps2__fio_8c.html" title=" " alt="" coords="205,184,339,225"/>
+<area shape="rect" id="node6" href="$crc16_8c_source.html" title=" " alt="" coords="374,184,522,225"/>
+<area shape="rect" id="node7" href="$mx4sio_8c_source.html" title=" " alt="" coords="546,184,694,225"/>
+</map>

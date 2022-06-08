@@ -1,0 +1,8 @@
+<map id="subdev_t" name="subdev_t">
+<area shape="rect" id="node1" title=" " alt="" coords="18,95,92,121"/>
+<area shape="rect" id="node4" href="$devfs_8c.html#struct__devfs__device" title=" " alt="" coords="46,304,152,331"/>
+<area shape="rect" id="node2" href="$group__devfs.html#uniondevfs__loc__t" title=" " alt="" coords="138,5,228,32"/>
+<area shape="rect" id="node3" href="$devfs_8c.html#struct__ioman__data" title=" " alt="" coords="51,395,147,421"/>
+<area shape="rect" id="node6" href="$group__devfs.html#structdevfs__info__t" title=" " alt="" coords="136,95,230,121"/>
+<area shape="rect" id="node5" href="$group__devfs.html#structdevfs__node__t" title=" " alt="" coords="133,213,233,240"/>
+</map>
